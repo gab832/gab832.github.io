@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "blame"
+date:   2020-11-30 00:16:22 +0100
+categories: jekyll update
+---
+
+pip install blame
