@@ -1,0 +1,21 @@
+baseURL = 'https://gab832.github.io'
+languageCode = 'en-us'
+title = "Gerard's blog"
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Curious by nature"
+#  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  showRelatedPosts = true
+  readingTime = true
+
+[Author]
+  name = "Gerard"
+  website = "https://gab832.github.io"
+  github = "gab832"
+  linkedin = "gerard-a-3a27502b"
